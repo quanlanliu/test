@@ -3,3 +3,5 @@ dev2 develop function2
 
 
 ----develop not in feature branch update 
+
+----tester test the release it's ok ready to publish
